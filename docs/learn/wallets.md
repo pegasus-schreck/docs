@@ -58,3 +58,10 @@ Advantages:
 Disadvantages:
 - Server-Part of Software may not be Open Source
 - If the proxy service is offline, you can't interact with the network
+
+:::info
+**Worth Noting**
+
+If you have the desire to participate in Qearn or an IPO, this can only currently be accomplished with the official Qubic web wallet.
+This can be accomplished by clicking on either IPO or QEarn in the left margin menu of the web wallet found here:  https://wallet.qubic.org
+:::
