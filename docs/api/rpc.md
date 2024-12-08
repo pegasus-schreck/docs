@@ -157,3 +157,9 @@ For more detailed information on all available endpoints, please visit the [Qubi
 - **GET** `/v1/qx/getFees`
 
 For interacting with these endpoints, use the base URL: `https://api.qubic.org`. For example, to get fees, you can use the following curl command:
+
+curl GET https://api.qubic.org/v1/qx/getFees
+
+and you should receive output that resembles the following:
+
+{"assetIssuanceFee":1000000000,"transferFee":100,"tradeFee":3000000}
